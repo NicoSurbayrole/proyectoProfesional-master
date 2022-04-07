@@ -1,0 +1,88 @@
+const productsList = [{
+    name:"Depto en venta zona Pilar",
+    price:110000,
+    description:"Alquiler Departamento 3 amb Pilar Saravi Village Alquiler Departamento 3 ambientes Pilar La Lonja Complejo (Saravi Village) Excelente unidad en barrio cerrado a estrenar Muy cerca de Panamericana Luminoso 2 baños completos Gran balcón aterrazado Detalles de calidad Excelente distribución Cochera Gran pileta de natación Seguridad las 24hs Zona Residencial La unidad se desarrolla sobre sus 84m2 ubicada en la planta alta del edificio compuesto por solo 2 pisos, excelente ubicación, con vista a la entrada del barrio, muy luminoso, de espaciosos ambientes bien distribuidos, 2 baños completos, cocina integrada, living comedor y gran balcón aterrazado. Guardia con cuádruple acceso. S.U.M. Área verde (2000 m2) con piscina de natación semiolimpica. Piscina para niños. Solárium. Plaza. Vestuario para damas y caballeros. Cocheras privadas para cada unidad funcional y cocheras de cortesía. Zona residencial consolidada, sobre la calle Saraví, a menos de 1 km. de la Ruta Panamericana km. 47.5 (bajada Diarco), con cercanía a centros comerciales, universidades, colegios, hoteles y restorantes de la zona, menos de 1 km. de la Ruta Panamericana.",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/cf8d8565-2dd6-46b7-b47e-d16727d50e91/f1d444f3-b6b6-4eb4-af06-8a5fad3ec43e.webp",
+    categoryId:1,
+
+},
+{
+    name:"PH en alquiler zona Pilar",
+    price:50000,
+    description:"Luminoso dúplex a cuadras del centro de Pilar Sobre la calle Martitegui a pocas cuadras del casco urbano de Pilar encontramos este hermoso dúplex de 64 m2 que se encuentra en medio de las tres unidades que componen este complejo. Ingresando en planta baja encontramos un amplio living comedor con cocina integrada, lavadero independiente y baño completo, entrada para auto . En planta alta se emplaza la habitación de generosa dimensión ( 5x4 metros) Alquiler tradicional en pesos por 36 meses, garantía propietaria o seguro de caución, un mes de depósito en garantía y un mes por adelantado. Sin expensas.",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/7b4443be-84a2-4a6a-80bc-4cb661bd7f92/a8e9d75c-38b7-4588-917c-33a82df25a4b.webp",
+    categoryId:1,
+},
+{
+    name:"Casa en alquiler zona Pilar",
+    price:50000,
+    description:"Casa Alquiler Panamericana Ramal Pilar km 41.5 Casa en Alquiler en Princess Country Club - Pilar Desarrollada en 2 plantas sobre lote central. Ubicación: 6 cuadras de Panamericana Ramal Pilar km 41.5 (bajada Del Viso Ruta 26). Se alquila SIN amueblar!! En la planta baja posee living con hogar y estar, hall de entrada y placard recibidor. Cocina con comedor diario y lavadero. También cuenta con toilette de recepción. Ya en la segunda planta, tenemos 2 habitaciones amplias con placard, una en master suite con escritorio, vestidor y baño. El amplio jardín cuenta con una galería con parrilla techada y una pileta climatizada revestida en venecitas. Cochera techada Caldera por radiadores Cocina Aristón a gas y horno eléctrico Aristón Aire acondicionado en todos los ambientes Aberturas de aluminio y doble vidrio Riegos Princess es un Country Club de 6 has, con 47 lotes. Posee club house, SUM, putting green, football, tres canchas de tenis en polvo de ladrillo, dos piletas de natación, juegos para niños y una añosa arboleda. Control de acceso y vigilancia las 24 hs.",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/4d42fe12-a27c-4b24-8d5d-50053a7d5dd2/dca5e45e-955e-4b80-8a32-e57a56806ece.webp",
+    categoryId:1,
+},
+{
+    name:"Depto en alquiler zona Belgrano",
+    price: 440000,
+    description:"Excelente Duplex de 5 (cinco) ambientes con cochera. Increíble vista al rio y a la ciudad. Muchísimo espacio de guardado. Piso 21: Amplio comedor con balcon, dos dormitorios, amplia cocina con comedor diario. Baño completo y toilette de recepción. Piso 22: Dormitorio en suite con vestidor y balcon. Gran living con hogar a leña, terraza con piscina. También hay un quincho con baño completo y terraza. Sistema de calefacción computarizado. Aire acondicionado por Splits. Gas natural. Servicios individuales y Seguridad 24hs. Expensas: $35000 Para los casos de alquiler de vivienda, el monto máximo de comisión que se le puede requerir a los propietarios será el equivalente al cuatro con quince centésimos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas físicas comisiones inmobiliarias y gastos de gestoría de informes.",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/e9fde6c7-09a6-4043-8058-ce3f4f92810d/d779506b-da22-4151-b7eb-0f274322c52c.webp",
+    categoryId:2,
+},
+{
+    name:"Oficina en alquiler zona Belgrano",
+    price: 300000,
+    description:"ALQUILER OFICINA LIBERTADOR EDIFICIO CORPORATIVO Nueva oficina a estrenar super amplia y comoda. Edificio corportativo en el corredor de Libertador. Cuenta con 150m. Todo luz y sol. Seguridad las 24hs. Dos ascensores. Premium AAA. La oficina cuenta con 2 baños, una cocina ampllia y un hermoso balcon con vista",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/9cb8b926-f05e-4c48-87e0-8e325a76aa00/05eedc1a-37b0-4f1b-8461-6a639df7e62f.webp",
+    categoryId:2,
+},
+{
+    name:"Oficina en alquiler zona Belgrano",
+    price: 500000,
+    description:"Venta oficina Belgrano moderna 45 m Lindisima oficina tipo loft super divisible de 45 metros en ubicacion estrategica de Belgrano a tres cuadras de Cabildo subte D toda luz!!!! Excelente y moderno edificio, con seguridad 24 horas, importante recepcion y tres ascensores de ultima tecnologia con cabina de acero inoxidable. Edificio de oficinas, con salas de reuniones y auditorio de conferencias comunes. Espacio social para empleados en terraza cubierto para almuerzos y descubierto. Apto vivienda con terraza / patio propio o apto oficinas !!! Amenities corporativos en piso superior: dos salas de reuniones, balcon amplio, sala de conferencias con capacidad en auditorio para 40 personas, sala de almuerzos y breaks. Todas equipadas! Departamento tipo loft ambientada hoy como oficina con lindisimo balcon terraza en un piso septimo y toda la luz! Dos equipos de aire acondicionado frio calor y moderno equipamiento. La propiedad esta hoy ambientada como oficina con area de cocina en modernisimo placard de piso a techo. Baño completo de excelente diseño con bañera. Una excelente oportunidad como vivienda, oficina, estudio o consultorio todo por reglamento!!!!!!! Hoy reciclado como loft corporativo con balcon y espacio semicubierto!!! IMPECABLE!! Cerca de todo, a dos cuadras de Cabildo!!!",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/a1d0ff4f-95ae-4ebd-8427-2fdb644daa9e/6d4afda6-9909-4dbc-a994-3da1cb352a88.webp",
+    categoryId:2,
+},
+{
+    name:"Casa en alquiler zona Palermo",
+    price: 600000,
+    description:"Alquiler Casa 5 ambientes (Barrio Parque )cochera Alquiler Residencial espectacular,CASA DE ESTILO (ANDULUZ). 5 ambientes, dependencia de servicio,cochera,jardin,patio,terraza. Ubicada en la calle Dardo Rocha 2900 entre Ramón Castilla y Ombú Barrio Parque - Palermo Chico, C.A.B.A. Casa de estilo, con acogedor patio andaluz. Propiedad contruida del año 1935, una de las primeras construidas en Barrio Parque. Desarrollada en 3 plantas, jardin delantero con entrada peatonal y vehicular. Espacio para dos autos ,un descubierto y otro cubierto. En el fondo de la casa se encuentra un lindísimo y agradable Patio andaluz. Zaguán de entrada revestido en marmól. Hall de recepción con una imponente escalera de madera masiza,dónde se puede disfrutar de un bar empotrado de estilo con sus butacas. Toilette. Comedor o Sala de Estar al frente. Living contra frente con una acogedora estufa de marmól a gas, con salida al patio. Cocina con espacio para comedor diario. Escalera de servicio. La primera planta cuenta con hall de distribución con una bibloteca empotrada. Tres dormitorios amplios dormitorios. 1° Dormitorio al frente,en suite con baño completo con ducha. 2° Dormitorio con balcón hacia el frente. 3°Dormitorio principal en suite con baño completo con bañera, cuenta con salida a balcón francés y una cálida vista al patio andaluz. Segunda planta: Dependencia de servicio, Baño completo con ducha. Lavadero independiente. Amplia terraza. Quincho cerrado. Reciclado a nuevos baños,se entregá pintada. ABL $26.444 (mensual monto correspondiente al mes de mayo). Aysa (agua) a consumo. Gas (a consumo). Electricidad (a consumo). Barrio Parque es la zona más exclusiva de la ciudad de Buenos Aires. Rodeada de embajadas,a minutos caminando del museo Malba. Para los casos de alquiler de vivienda, el monto máximo de comisión que se le puede requerir a los propietarios será el equivalente al cuatro con quince centésimos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas físicas comisiones inmobiliarias y gastos de gestoría de informes.",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/9a9f3403-2f6c-44c0-bde7-efe3aa3978f5/c7aec189-e518-45dd-8673-3cb016349fed.webp",
+    categoryId:3,
+},
+{
+    name:"Depto en alquiler zona Palermo",
+    price: 55000,
+    description:"Alquiler monoambiente Palermo Hollywood Piscina A ESTRENAR!!! Amplio monoambiente de 11 m x 3 m con posibilidad de dividir ya que cuenta con ventanal al contrafrente y otro al aire y luz. Cocina equipada con alacena y bajo mesada. Espacio para la heladera de 0,75 de ancho por 1,90 de alto y lugar para colocar lavarropas de carga frontal de 0,62 de ancho, 0,86 de alto y 0,60 de profundidad. Baño completo con ventilación natural, vanitory, pisos de porcelanato simil madera. Los pisos del ambiente son de madera flotante. Agua caliente central. Sistema de calefacción por split frio calor. El edificio cuenta con un laundry en PB, SUM y Piscina con solarium en el piso 10° con vistas espectaculares a la ciudad. Apto profesional. Ubicado sobre la Av. Niceto Vega, a 50 metros de Dorrego y 100 m de Av. Córdoba. Muy buenos accesos y medios de transporte. Para los casos de alquiler de vivienda, el monto máximo de comisión que se le puede requerir a los propietarios será el equivalente al cuatro con quince centésimos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas físicas comisiones inmobiliarias y gastos de gestoría de informes.",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/c28f9fe6-e550-470f-b394-31d2f5ffb446/1cda6e54-2162-4063-876c-4981ddc5af92.webp",
+    categoryId:3, 
+},
+{
+    name:"Depto en alquiler zona Palermo",
+    price:85000,
+    description:"ALQUILER DEPTO 2 AMBIENTES PALERMO HOLLYWOOD ALQUILER DEPTO. 2 AMBIENTES Al ingresar al departamento nos encontramos con un pasillo distribuidor que nos dirige al living comedor cocina integrada con ventanas a ambos lados en su largo lo que permite hacer de este espacio y en su totalidad un apartamento luminoso funcional acorde a una vida moderna y activa. La habitación en suite posee un baño completo amplio y cómodo y el baño principal posee las mismas características. El edificio posee amenities tales como una piscina en el ultimo piso con solárium. La cochera se encuentra en la planta baja y el edificio cuenta con seguridad las 24 horas. Se deja constancia que las medidas, superficies, m2 y proporciones consignadas son aproximados, al igual que las medidas parciales y/o de los ambientes está sujeto a verificación y/o ajuste. El valor indicado de expensas está sujeto a variación. El precio del inmueble puede ser modificado sin previo aviso. Fotos de carácter no contractual. La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General Nº 2371 de AFIP (COTI)",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/58cdee8d-d659-4d2c-b2ee-6ed37f7e6082/d8485d7d-d1eb-4ae9-b460-f44b42328a3b.webp",
+    categoryId:3,
+},
+{
+    name:"Casa en alquiler zona Martinez",
+    price:215000,
+    description:"Casa en alquiler en Martinez 4 dormitorios Casa 5 amb. en Alquiler en Martínez. A 4 cuadras de Maipú y a 1 de Paraná. Hermosa casa en alquiler : PB; Recepción, Living con hogar, comedor, cocina, lavadero, garage, 3 habitaciones y 2 baños completos de los cuales 1 es en suite. PA: ante cuarto, dormitorio, baño completo y terraza Exterior: parrilla , jardín",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/c71d194e-08c8-4af9-a29e-b170c8dd1fd7/31055cb0-3f92-4ef8-a6c4-7b9708e259e2.webp",
+    categoryId:4,
+},
+{
+    name:"Depto en alquiler zona Martinez",
+    price: 220000 ,
+    description:"ALQUILER LOFT EN MARTINEZ AMUEBLADO ALQUILER LOFT EN MARTINEZ AMUEBLADO Espectacular loft en alquiler, completamente equipado. Muy canchero, primer piso. Vista a la pileta. Living y comedor muy amplios. Toilette, baño completo. Dormitorio en el entre piso con vestidor. Cortinas electricas. Losa radiante y aire acondicionado. Cochera, baulera. Edificio único y muy buscado por la calidad de construcción, la tranquilidad, los excelentes servicios y por las dimensiones de los ambientes. Ubicado en la manzana comprendida por las calles Beltran, Ezpeleta, Castelli, Entre Ríos, son 82 departamentos que miran a un jardín central, con una pileta y solarium en desnivel, y gimnasio con vestuarios y duchas. La cochera es cubierta y está en el subsuelo, a si mismo la baulera. Tiene 2 accesos. por Beltran y Castelli, con control de accesos en ambos. Seguridad 24 hs. Limpieza de las áreas comunes permanente de lunes a sabados. El complejo se encuentra a 2 cuadras del Boulevard Dardo Rocha, con toda su oferta gastronómica y comercial, del Hipódromo de San Isidro, Jockey Club, gran pulmón verde de la zona.",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/33fdca09-54a7-4f3b-a5b6-0e9e63e8ee5f/db18c387-8af3-442e-b362-c3c66b296022.webp",
+    categoryId:4,
+},
+{
+    name:"PH en alquiler zona Martinez",
+    price: 57000 ,
+    description:"Alquiler Martínez PH 3 amb sin expensas Alquiler Martínez PH de 3 ambientes con terraza propia. Muy buen PH de 3 ambientes con terraza y lavadero independiente, con disposición frente, ubicado en planta alta con entrada totalmente independiente. Excelente ubicación a dos cuadras de Dardo Rocha, barrio súper tranquilo y cerca del principal polo gastronómico de Martínez. Cercanía a distintas líneas de colectivos. Cuenta con: Living- comedor, cocina separada, hall de distribución y dos dormitorios, uno con placard. Baño completo. Gran terraza y lavadero independiente con lugar para tendido de ropa. Muy luminoso. Cada uno de los ambientes cuenta con aire acondicionado frió- calor y calefactores tiro balanceado. ¡NO PAGA EXPENSAS!",
+    image:"https://d1994bulhovht.cloudfront.net/856x440/listings/2a9192e5-6682-4a1f-b325-020fdf7735cc/241f239e-07e4-49cb-bcae-c3229bc55670.webp",
+    categoryId:4,
+},
+]
+
+module.exports = productsList;
